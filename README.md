@@ -51,9 +51,13 @@ Python Libraries
 Question set which will help in extracting useful information for business growth
 
 Q.1 What is the most frequent genre in the dataset?
+
 Q.2 Which has highest votes in vote avg column?
+
 Q.3a What movie got the highest popularity? what's its genre?
+
 Q.3b What movie got the lowest popularity? What's its genre?
+
 Q.4 Which year has the most filmed movies?
 
 
