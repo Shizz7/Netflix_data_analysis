@@ -1,50 +1,43 @@
-This project explores and analyzes Netflix movie data using Python and popular data science libraries. The objective is to gain insights into movie genres, popularity, pricing, and other key features using visualization and statistical analysis.
+This project explores and analyzes Netflix movie data using Python and popular data science libraries. The objective is to gain insights into movie genres, popularity and other key features using visualization and statistical analysis.
 
 Project Overview
-The notebook performs the following tasks:
 
-Data preprocessing and cleaning
+1. The notebook performs the following tasks:
+
+2. Data preprocessing and cleaning
 
 Visualization of:
 
-Genre distribution
+1. Genre distribution
 
-Vote average distribution (popularity)
-
-Room type vs price (if applicable)
+2. Vote average distribution (popularity)
 
 Drawing conclusions based on visualized data
 
 Technologies Used
-Python
+1. Python
 
-Pandas
+2. Pandas
 
-Matplotlib
+3. Matplotlib
 
-Seaborn
+4. Seaborn
 
-Jupyter Notebook
+5. Jupyter Notebook
 
 Dataset
 The dataset includes:
 
-Movie genres
+1. Movie genres
 
-Vote averages
+2. Vote averages
 
-Room types and prices (if sourced from Airbnb merged data)
-
-Other metadata related to Netflix content
-
-(Please update the source of your dataset here if publicly available.)
+3.Other metadata related to Netflix content
 
 Key Insights
-Drama and Comedy are the most dominant genres.
+1. Drama and Comedy are the most dominant genres.
 
-Most movies fall under average or popular categories.
-
-Shared rooms unexpectedly showed a higher median price than entire apartments in some data (needs further inspection for outliers).
+2. Most movies fall under average or popular categories.
 
 Requirements
 
